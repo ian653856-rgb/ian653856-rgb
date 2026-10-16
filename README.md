@@ -10,8 +10,9 @@ Tenho interesse em Desenvolvimento de Software e Análise de Dados. Estou constr
 - 📊 Análise de Dados e Excel
 - 🧩 Lógica de Programação e resolução de problemas
  🛠️ Tecnologias e ferramentas
-- **Linguagens:** Python, SQL
-- **Ferramentas:** Excel, Git e GitHub
+-## 🛠️ Tecnologias e ferramentas
+- **Python:** lógica de programação e desenvolvimento.
+- **SQL:** consultas e fundamentos de banco de dados.
 
  📚 Atualmente
 - Aprimorando meus conhecimentos em Python e lógica de programação
